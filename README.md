@@ -54,7 +54,7 @@ The analysis was conducted in **Python (Google Colab)** for data cleaning and ex
 ---
 
 ## Key Insights
-- Gender distribution revealed [almost the same proportion of male and female patients, with males ahead by around 0.10%].  
+- Gender distribution revealed [almost the same proportion of male and female patients, with slightly more males].  
 - The average patient age was approximately [52 years].  
 - Billing analysis showed [majority of revenue from patients of the 66+ age group].  
 
